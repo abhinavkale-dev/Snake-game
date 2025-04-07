@@ -23,3 +23,9 @@ A simple implementation of the classic Snake Game built using HTML5 Canvas and v
    ```bash
    git clone https://github.com/abhinavkale-dev/Snake-game.git
    ```
+2 **To run it locally:**
+
+   ```bash
+   open index.html
+   ```
+   
